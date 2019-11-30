@@ -1,10 +1,15 @@
 # Shouting Match
 An alternative control fighting game about yelling.
 
-[![Shouting Match](https://i.ibb.co/McM0tFn/https-i-vimeocdn-com-video-746978457-720.jpg)](https://vimeo.com/307101132 "Shouting Match")
 
+## Promotional Video
 
- video can also be found on vimeo [here](https://vimeo.com/307101132)
+[![Shouting Match Promo](https://i.ibb.co/Z6gHTqL/https-i-vimeocdn-com-video-835585644-720.jpg)](https://vimeo.com/376490919 "Shouting Match Promo")
+
+ 
+ ## Alternative Controller Explanation for atl.ctrl.GDC
+
+[![Shouting Match Alt. Controller Explanation](https://i.ibb.co/yXh6dJd/https-i-vimeocdn-com-video-835584871-720.jpg)](https://vimeo.com/376489468 "Shouting Match Alt. Controller Explanation")
 
 
 ## About the Game
