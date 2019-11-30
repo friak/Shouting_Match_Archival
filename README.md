@@ -1,7 +1,7 @@
 # Shouting_Match
 An alternative control fighting game about yelling.
 
- video can also be found on vimeo [here](http://github.com)
+ video can also be found on vimeo [here](http://vimeo.com/user59998704)
 
 
 ## About the Game
