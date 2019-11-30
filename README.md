@@ -1,7 +1,8 @@
 # Shouting Match
 An alternative control fighting game about yelling.
 
-[![Shouting Match](https://i.ibb.co/k2683Nr/https-i-vimeocdn-com-video-746978457-720.jpg)](https://vimeo.com/307101132 "Shouting Match")
+<a href="{video-url}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+
 
  video can also be found on vimeo [here](https://vimeo.com/307101132)
 
